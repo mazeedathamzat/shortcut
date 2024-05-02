@@ -1,0 +1,41 @@
+*{
+    
+    /* margin: 0; */
+}
+
+div{
+    height: 100vh;
+     width: 100vw;
+    background-color: hsl(212,45%,89%);
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+}
+
+
+nav{
+  
+     width: 300px; 
+    background-color: aliceblue;
+    display: flex;
+     flex-direction: column;
+    justify-content: center; 
+     padding-block: 10px;
+    border-radius: 20px;
+    /* padding-top: 30px; */
+    padding-left: 20px;
+    padding-right: 20px;
+     margin-block: 5px; 
+}
+.web{
+    margin-top: 20px;
+     text-align: center; 
+}
+.scan{
+    margin-top:20px ;
+     text-align: center; 
+}
+.frame{
+    border-radius: 20px;
+    width: 300px;
+}
